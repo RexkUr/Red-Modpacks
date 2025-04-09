@@ -103,6 +103,7 @@ Bosses/Mobs
         Mythic Mounts
 Cooking/Farming
     Farming
+        Farmers Delight
     Cooking
 
 
