@@ -42,7 +42,7 @@ Client
     Jade
     Eating Animation
     Dynamic Crosshair
-    Shoulder Surfing Reloaded
+    Leawind Third Person
     Mouse Tweaks
     Ambient Sounds
     Sounds Physics
