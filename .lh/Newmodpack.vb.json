@@ -1,0 +1,18 @@
+{
+    "sourceFile": "Newmodpack.vb",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1744228724080,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1744228724079,
+            "name": "Commit-0",
+            "content": "Terrain Generation\r\n    Larion\r\nBiomes\r\n    Bwg\r\n    Natures spirit\r\n    regions unexplored\r\n    Alex Caves\r\n    Galosphere\r\n    Better End\r\n    Better Nether\r\n    Jadens expansion\r\n    Pale Garden Backport\r\n    Let's Do Mods\r\n    Incendium\r\n    William Wythers Overhauled Overworld\r\n    Quark\r\n    Stony Cliffs Are cool\r\n\r\nDimensions\r\n    Aether , Deep Aether , Aether Redux\r\n    Deeper & Darker\r\n    Macabre\r\n    Undergarden\r\n    Twilight forest\r\n    Call From The depth?\r\n    Minecells\r\n    Bumblezone\r\n\r\n\r\nModpack Utils\r\n    Kubejs\r\n    Item Obliterator\r\n    Block Swap\r\n    CraftTweaker\r\n    Connector Sinytra\r\n    In Control!\r\nClient\r\n    Advancement Plaques\r\n    Camera Overhaul\r\n    Emi (Tmrv)\r\n    Embeddium\r\n    Jade\r\n    Eating Animation\r\n    Dynamic Crosshair\r\n    Leawind Third Person\r\n    Mouse Tweaks\r\n    Ambient Sounds\r\n    Sounds Physics\r\n    EmoteCraft\r\n    Chat Animation\r\n\r\nCombat\r\n    Battle Styles\r\n        Epic Fight\r\n        Alt Better Combat?\r\n        Irons Spells And Spellbooks\r\n        Ars Nouveau\r\n        Mahou Tsukai\r\n        Tacz Guns And Addons\r\n    Weapons\r\n        Simply Swords\r\n        Simply More\r\n        Tinkers Construct\r\n        Tmapi Possibly?\r\n        Samurai Dynasty\r\n        L2 Weaponry\r\n        L2 Archery\r\n    Curios\r\n        Enigmatic Legacy\r\n        L2 Artifacts\r\n        Celestial Artifacts\r\n        Chromatic Arsenal\r\n        Terra Curio\r\n        Nameless Trinkets\r\n        Relics\r\n        Artifacts\r\n    Enchantments\r\n        Celestial Enchantments\r\n        Celestial Forge\r\nBosses/Mobs\r\n    Bosses\r\n        Aquamirae\r\n        L Enders Cataclysm\r\n        EEAABS Mobs\r\n        Terramity\r\n        Terra Entity\r\n        Legendary Monsters\r\n        Marium Soulslike Weaponry\r\n        Mowzie Mobs\r\n        Myths And Legends\r\n    Mobs\r\n        Alex Mobs\r\n        Naturalist\r\n        Born In chaos\r\n        Demi Sky Arena\r\n        Ice And Fire\r\n        Enderman Overhaul\r\n        Creeper Overhaul\r\n        Faunify\r\n        Hybrid Aquatic\r\n        Hamsters\r\n        Illage And Spillage Respillaged\r\n        Mythic Mounts\r\nCooking/Farming\r\n    Farming\r\n        Farmers Delight\r\n        Croptopia\r\n    Cooking\r\nDecoration\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+        }
+    ]
+}
