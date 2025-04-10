@@ -1,0 +1,59 @@
+#The growth rate of plague research sites
+#Range: 0.0 ~ 100.0
+GrowthSpeed = 0.1
+#The corrosion speed of the plague
+#Range: 0.0 ~ 100.0
+CorrosionSpeed = 0.01
+#Nightmare Moai's enchantment level bonus
+#Range: 0 ~ 100
+EnchantmentBonus = 2
+#How many critical hits will brain make
+#Range: 1 ~ 100
+MBrain_many = 5
+#Brain's critical strike multiplier
+#Range: 1.0 ~ 999.0
+MBrain_critical_multiplier = 2.25
+#The speed of the battery
+#Range: 0.0 ~ 999.0
+battery = 0.1
+#The speed of the quadriceps
+#Range: 0.0 ~ 999.0
+quadriceps = 0.25
+#The speed of the flygene
+#Range: 0.0 ~ 999.0
+flygene = 0.125
+#The speed of the bloodvirus
+#Range: 0.0 ~ 999.0
+bloodvirus = 0.175
+#The speed of the motor
+#Range: 0.0 ~ 999.0
+motor = 0.15
+#What creatures should be killed and dropped
+Mob = "minecraft:warden"
+#What is this value, divide the damage by (“2” is “/2”)
+#Range: 1 ~ 1000
+Int = 2
+#Will the Flying Sword and Suddenrain Sword attack any creatures
+Entity = ["minecraft:player", "minecraft:pig"]
+#Starting with a book or not
+give = true
+#What is the maximum number of lucky values that can be converted from the attributes of the Spirit Lucky Star
+#Range: 0 ~ 1024
+EctoplasmStar = 100
+
+[Loot]
+	#The probability of discovering Shadow Plague items from the chests
+	#Range: 1 ~ 100
+	Plague_probability = 10
+	#The probability of Necora items from the chests
+	#Range: 1 ~ 100
+	Necora_probability = 10
+	#The probability of Nightmare items from the chests
+	#Range: 1 ~ 100
+	Nightmare_probability = 10
+	#The larger this value, the lower the probability of discovering the item
+	#Range: 0.1 ~ 100.0
+	Common_probability = 1.0
+	#After enabling, you can find “nine_sword_books”
+	NineSwordBooks = true
+

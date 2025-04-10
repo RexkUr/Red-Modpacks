@@ -1,0 +1,190 @@
+{
+    "size": "large",
+    "color": "#98331E",
+    "waves": [{
+            "entities": [{
+                    "entity": "terramity:gob"
+                }
+            ],
+            "modifiers": [
+		    {
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.7
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 5
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.35
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 0.5
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.06
+                }
+            ],
+            "rewards": [{
+                "type": "gateways:stack",
+                "stack": {
+                "item": "terramity:iridium"
+            }
+            }],
+            "max_wave_time": 9000,
+            "setup_time": 200
+        },
+        {
+            "entities": [{
+                    "entity": "terramity:super_sniffer"
+                }
+            ],
+            "modifiers": [
+		    {
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.5
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 7
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.4
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 0.5
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.06
+                }
+            ],
+            "rewards": [{
+                "type": "gateways:stack",
+                "stack": {
+                "item": "terramity:iridium"
+                }
+            }],
+            "max_wave_time": 9000,
+            "setup_time": 400
+        },
+        {
+            "entities": [{
+                    "entity": "terramity:trial_guardian"
+                }
+            ],
+            "modifiers": [
+		    {
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.55
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 7
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.4
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 0.15
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.15
+                }
+            ],
+            "rewards": [{
+                "type": "gateways:stack",
+                "stack": {
+                "item": "kubejs:chaoscoin"
+            }
+            }],
+            "max_wave_time": 9000,
+            "setup_time": 400
+        },
+        {
+            "entities": [{
+                    "entity": "terramity:gundalf"
+                }
+            ],
+            "modifiers": [
+		    {
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.5
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 8
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.6
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 0.20
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.20
+                }
+            ],
+            "rewards": [{
+                "type": "gateways:stack",
+                "stack": {
+                "item": "kubejs:chaoscoin"
+            }
+                }],
+                "max_wave_time": 9000,
+                "setup_time": 400
+            }
+        ],
+        "rewards": [{
+            "type": "gateways:entity_loot",
+            "entity": "cataclysm:ignis",
+            "rolls": 1
+        },
+	{
+    	"type": "gateways:experience",
+    	"experience": 3455
+	},
+        {
+            "type": "gateways:stack",
+            "stack": {
+                "item": "kubejs:chaoscoin",
+                "count": 18
+            }
+        }],
+        "rules": {
+	"spawn_range": 10,
+	"leash_range": 256
+	}
+    }
+    

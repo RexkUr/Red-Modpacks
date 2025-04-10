@@ -1,0 +1,24 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "CBC",
+    "BAB",
+    "CBC"
+  ],
+  "key": {
+    "C": {
+      "item": "cataclysm:ignitium_ingot"
+    },
+	"A": {
+      "item": "allthemodium:unobtainium_ingot"
+    },
+	"B": {
+      "item": "terramity:antiprism"
+    }
+  },
+  "result": {
+    "item": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:gambit"
+}

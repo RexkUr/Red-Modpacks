@@ -1,0 +1,15 @@
+#The list of chests in which the Enigmatic Die is added
+lootTables = ["minecraft:chests/abandoned_mineshaft", "minecraft:chests/ancient_city", "minecraft:chests/ancient_city_ice_box", "minecraft:chests/bastion_bridge", "minecraft:chests/bastion_hoglin_stable", "minecraft:chests/bastion_other", "minecraft:chests/bastion_treasure", "minecraft:chests/buried_treasure", "minecraft:chests/desert_pyramid", "minecraft:chests/end_city_treasure", "minecraft:chests/igloo_chest", "minecraft:chests/jungle_temple", "minecraft:chests/nether_bridge", "minecraft:chests/pillager_outpost", "minecraft:chests/ruined_portal", "minecraft:chests/shipwreck_map", "minecraft:chests/shipwreck_supply", "minecraft:chests/shipwreck_treasure", "minecraft:chests/simple_dungeon", "minecraft:chests/spawn_bonus_chest", "minecraft:chests/stronghold_corridor", "minecraft:chests/stronghold_crossing", "minecraft:chests/stronghold_library", "minecraft:chests/underwater_ruin_big", "minecraft:chests/underwater_ruin_small", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_snowy_house", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_toolsmith", "minecraft:chests/village/village_weaponsmith", "minecraft:chests/woodland_mansion", "minecraft:chests/basic_chest", "minecraft:chests/chest_level_1", "minecraft:chests/chest_level_2", "minecraft:chests/chest_level_3", "minecraft:chests/farm_drop", "minecraft:chests/firewell_d", "minecraft:chests/shater"]
+#Chance for Enigmatic Die to drop from a mob when killed by a player.
+#For example, a value of 0.005 means a 0.5% chance to drop.
+#Range: 0.0 ~ 1.0
+enigmaticDieDropChance = 0.005
+#Chance for Enigmatic Die to drop from a block when broken by a player.
+#For example, a value of 0.001 means a 0.1% chance to drop.
+#Range: 0.0 ~ 1.0
+enigmaticDieBlockDropChance = 0.001
+#Chance for Enigmatic Die to appear in a chest.
+#Value is between 0.0 and 1.0. For example, 0.1 means a 10% chance.
+#Range: 0.0 ~ 1.0
+enigmaticDieChestChance = 0.1
+

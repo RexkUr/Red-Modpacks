@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "item": "alexsmobs:rainbow_glass",
+      "emc": 2000
+    },
+    {
+      "item": "minecraft:beef",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_beef",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_chicken",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_cod",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_mutton",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_porkchop",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_rabbit",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_salmon",
+      "emc": 0
+    },
+    {
+      "item": "jeg:rifle_ammo",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:apple",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beetroot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:potato",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cake",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wheat",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:carrot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:porkchop",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cod",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:salmon",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond",
+      "emc": 0
+    },
+    {
+      "item": "magnumtorch:amethyst_magnum_torch",
+      "emc": 1000
+    },
+    {
+      "item": "magnumtorch:diamond_magnum_torch",
+      "emc": 1000
+    },
+    {
+      "item": "magnumtorch:emerald_magnum_torch",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:nether_star",
+      "emc": 0
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[
+      {
+        "mod": "terramity",
+        "when": "onjoin",
+        "healthmultiply": 5,
+        "damagemultiply": 6,
+        "armormultiply": 2.0
+      },
+      {
+        "mod": "twilightforest",
+        "when": "onjoin",
+        "healthmultiply": 60,
+        "damagemultiply": 25,
+        "armormultiply": 5.0
+      },      
+      {
+        "mod": "born_in_chaos_v1",
+        "when": "onjoin",
+        "healthmultiply": 2,
+        "damagemultiply": 3,
+        "armormultiply": 2.0
+      },
+      {
+        "dimension": "aether:the_aether",
+        "when": "onjoin",
+        "healthmultiply": 5,
+        "damagemultiply": 3,
+        "armormultiply": 2.0
+      },
+      {
+        "mod": "minecells",
+        "when": "onjoin",
+        "healthmultiply": 5,
+        "damagemultiply": 5,
+        "armorset": 10.0
+      },
+      {
+        "mob": "minecraft:ender_dragon",
+        "when": "onjoin",
+        "damagemultiply": 5,
+        "armorset": 5.0
+      },
+      {
+        "mob": "mowziesmobs:ferrous_wroughtnaut",
+        "when": "onjoin",
+        "healthset": 250,
+        "damagemultiply": 10,
+        "armorset": 5.0
+      },
+      {
+        "mob": "mowziesmobs:naga",
+        "when": "onjoin",
+        "healthset": 100,
+        "damagemultiply": 10
+      },
+      {
+        "mob": "mowziesmobs:frostmaw",
+        "when": "onjoin",
+        "healthset": 500,
+        "damagemultiply": 10,
+        "armorset": 5.0
+      },
+      {
+        "mob": "minecraft:warden",
+        "when": "onjoin",
+        "healthset": 1000,
+        "damagemultiply": 5,
+        "armorset": 5.0
+      }
+]

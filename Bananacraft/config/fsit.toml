@@ -1,0 +1,29 @@
+#Do not edit
+config_version = 3
+
+[sneak]
+	#Sit-on-sneak feature
+	enabled = true
+	#Minimal pitch to sitting/crawling down
+	min_angle = 66.0
+	#Time (ms) between sneaks to sitting/crawling down
+	delay = 600
+
+[sittable]
+	#Sit-on-use block feature
+	enabled = true
+	#Maximum radius for sit-on-use
+	radius = 2
+	#List of block ids (e.g. "oak_log") available to sit
+	blocks = []
+	#List of block tags
+	tags = []
+
+[misc]
+
+	[misc.riding]
+		#Player riding feature
+		enabled = false
+		#Maximum radius for start riding player
+		radius = 3
+
