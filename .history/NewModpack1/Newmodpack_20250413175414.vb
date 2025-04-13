@@ -34,7 +34,6 @@ Modpack Utils
     CraftTweaker
     Connector Sinytra
     In Control!
-    Crash Asistant
 Client
     Advancement Plaques
     Camera Overhaul
@@ -61,7 +60,6 @@ Combat
             Enchanted Witchcraft
             Mahou Tsukai
             Occultism (Demon Wife = Best Wife)
-            Goety
         Guns/Ranged:
             Tacz Guns And Addons
     Weapons
