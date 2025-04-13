@@ -51,16 +51,12 @@ Client
 
 Combat
     Battle Styles
-        Melee:
-            Better Combat
-            Epic Fight
-        Magic:
-            Irons Spells And Spellbooks
-            Ars Nouveau
-            Enchanted Witchcraft
-            Mahou Tsukai
-        Guns/Ranged:
-            Tacz Guns And Addons
+        Epic Fight
+        Alt Better Combat?
+        Irons Spells And Spellbooks
+        Ars Nouveau
+        Mahou Tsukai
+        Tacz Guns And Addons
     Weapons
         Simply Swords
         Simply More

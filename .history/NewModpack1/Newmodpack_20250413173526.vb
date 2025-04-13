@@ -57,7 +57,6 @@ Combat
         Magic:
             Irons Spells And Spellbooks
             Ars Nouveau
-            Enchanted Witchcraft
             Mahou Tsukai
         Guns/Ranged:
             Tacz Guns And Addons
