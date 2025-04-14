@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 5,
+            "activePatchIndex": 7,
             "patches": [
                 {
                     "date": 1744580127220,
@@ -28,6 +28,14 @@
                 {
                     "date": 1744586724365,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -62,8 +62,9 @@\n             Mahou Tsukai\r\n             Occultism (Demon Wife = Best Wife)\r\n             Goety\r\n             Hex Casting\r\n+            forbidden and arcanus(debatable)\r\n         Guns/Ranged:\r\n             Tacz Guns And Addons\r\n     Weapons\r\n         Simply Swords\r\n"
+                },
+                {
+                    "date": 1744607289814,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -55,16 +55,18 @@\n         Melee:\r\n             Better Combat\r\n             Epic Fight\r\n         Magic:\r\n-            Irons Spells And Spellbooks\r\n-            Ars Nouveau\r\n-            Enchanted Witchcraft\r\n-            Mahou Tsukai\r\n-            Occultism (Demon Wife = Best Wife)\r\n-            Goety\r\n-            Hex Casting\r\n-            forbidden and arcanus(debatable)\r\n+            Irons Spells And Spellbooks (Premade Spells)\r\n+            Ars Nouveau (Spell Creation)\r\n+            Enchanted Witchcraft (Witchery)\r\n+            Mahou Tsukai (Premade Spells)\r\n+            Occultism (Demon Wife = Best Wife) (Cult)\r\n+            Goety (Cult)\r\n+            Hex Casting (Spell Creation)\r\n+            forbidden and arcanus(debatable) \r\n+            Malum (Witchery)\r\n+            Spectrum (Color Magic ) (Similar to botania)\r\n         Guns/Ranged:\r\n             Tacz Guns And Addons\r\n     Weapons\r\n         Simply Swords\r\n"
+                },
+                {
+                    "date": 1744607519213,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -65,8 +65,9 @@\n             Hex Casting (Spell Creation)\r\n             forbidden and arcanus(debatable) \r\n             Malum (Witchery)\r\n             Spectrum (Color Magic ) (Similar to botania)\r\n+            Botania (Kinda Had to)\r\n         Guns/Ranged:\r\n             Tacz Guns And Addons\r\n     Weapons\r\n         Simply Swords\r\n"
                 }
             ],
             "date": 1744580127220,

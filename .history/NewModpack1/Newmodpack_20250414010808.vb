@@ -66,7 +66,6 @@ Combat
             forbidden and arcanus(debatable) 
             Malum (Witchery)
             Spectrum (Color Magic ) (Similar to botania)
-            Botania (Kinda Had to)
         Guns/Ranged:
             Tacz Guns And Addons
     Weapons

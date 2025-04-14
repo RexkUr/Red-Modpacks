@@ -56,17 +56,14 @@ Combat
             Better Combat
             Epic Fight
         Magic:
-            Irons Spells And Spellbooks (Premade Spells)
-            Ars Nouveau (Spell Creation)
-            Enchanted Witchcraft (Witchery)
-            Mahou Tsukai (Premade Spells)
-            Occultism (Demon Wife = Best Wife) (Cult)
-            Goety (Cult)
-            Hex Casting (Spell Creation)
-            forbidden and arcanus(debatable) 
-            Malum (Witchery)
-            Spectrum (Color Magic ) (Similar to botania)
-            Botania (Kinda Had to)
+            Irons Spells And Spellbooks
+            Ars Nouveau
+            Enchanted Witchcraft
+            Mahou Tsukai
+            Occultism (Demon Wife = Best Wife)
+            Goety
+            Hex Casting
+            forbidden and arcanus(debatable)
         Guns/Ranged:
             Tacz Guns And Addons
     Weapons
