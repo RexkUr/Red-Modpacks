@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 8,
+            "activePatchIndex": 10,
             "patches": [
                 {
                     "date": 1744580127220,
@@ -40,6 +40,14 @@
                 {
                     "date": 1744609768698,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -66,8 +66,9 @@\n             forbidden and arcanus(debatable) \r\n             Malum (Witchery)\r\n             Spectrum (Color Magic ) (Similar to botania)\r\n             Botania (Kinda Had to)\r\n+            Scriptor Magicae (Spell Creation)\r\n         Guns/Ranged:\r\n             Tacz Guns And Addons\r\n     Weapons\r\n         Simply Swords\r\n"
+                },
+                {
+                    "date": 1744610819609,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -54,9 +54,9 @@\n     Battle Styles\r\n         Melee:\r\n             Better Combat\r\n             Epic Fight\r\n-        Magic:\r\n+        Magic: (For The Most Part Done.)\r\n             Irons Spells And Spellbooks (Premade Spells)\r\n             Ars Nouveau (Spell Creation)\r\n             Enchanted Witchcraft (Witchery)\r\n             Mahou Tsukai (Premade Spells)\r\n"
+                },
+                {
+                    "date": 1744610906078,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -51,9 +51,9 @@\n     Chat Animation\r\n \r\n Combat\r\n     Battle Styles\r\n-        Melee:\r\n+        Melee: (Done)\r\n             Better Combat\r\n             Epic Fight\r\n         Magic: (For The Most Part Done.)\r\n             Irons Spells And Spellbooks (Premade Spells)\r\n@@ -67,17 +67,18 @@\n             Malum (Witchery)\r\n             Spectrum (Color Magic ) (Similar to botania)\r\n             Botania (Kinda Had to)\r\n             Scriptor Magicae (Spell Creation)\r\n-        Guns/Ranged:\r\n-            Tacz Guns And Addons\r\n+        Guns/Ranged:(Done)\r\n+            Tacz Guns\r\n     Weapons\r\n         Simply Swords\r\n         Simply More\r\n         Tinkers Construct\r\n         Tmapi Possibly?\r\n         Samurai Dynasty\r\n         L2 Weaponry\r\n+    Guns/Ranged\r\n         L2 Archery\r\n     Curios\r\n         Enigmatic Legacy\r\n         L2 Artifacts\r\n"
                 }
             ],
             "date": 1744580127220,

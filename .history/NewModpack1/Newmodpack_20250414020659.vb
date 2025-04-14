@@ -52,7 +52,7 @@ Client
 
 Combat
     Battle Styles
-        Melee: (Done)
+        Melee:
             Better Combat
             Epic Fight
         Magic: (For The Most Part Done.)
@@ -68,8 +68,8 @@ Combat
             Spectrum (Color Magic ) (Similar to botania)
             Botania (Kinda Had to)
             Scriptor Magicae (Spell Creation)
-        Guns/Ranged:(Done)
-            Tacz Guns
+        Guns/Ranged:
+            Tacz Guns And Addons
     Weapons
         Simply Swords
         Simply More
@@ -77,7 +77,6 @@ Combat
         Tmapi Possibly?
         Samurai Dynasty
         L2 Weaponry
-    Guns/Ranged
         L2 Archery
     Curios
         Enigmatic Legacy
