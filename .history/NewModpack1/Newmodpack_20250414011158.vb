@@ -67,7 +67,6 @@ Combat
             Malum (Witchery)
             Spectrum (Color Magic ) (Similar to botania)
             Botania (Kinda Had to)
-            Scriptor Magicae (Spell Creation)
         Guns/Ranged:
             Tacz Guns And Addons
     Weapons

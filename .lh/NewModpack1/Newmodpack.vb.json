@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 7,
+            "activePatchIndex": 8,
             "patches": [
                 {
                     "date": 1744580127220,
@@ -36,6 +36,10 @@
                 {
                     "date": 1744607519213,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -65,8 +65,9 @@\n             Hex Casting (Spell Creation)\r\n             forbidden and arcanus(debatable) \r\n             Malum (Witchery)\r\n             Spectrum (Color Magic ) (Similar to botania)\r\n+            Botania (Kinda Had to)\r\n         Guns/Ranged:\r\n             Tacz Guns And Addons\r\n     Weapons\r\n         Simply Swords\r\n"
+                },
+                {
+                    "date": 1744609768698,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -66,8 +66,9 @@\n             forbidden and arcanus(debatable) \r\n             Malum (Witchery)\r\n             Spectrum (Color Magic ) (Similar to botania)\r\n             Botania (Kinda Had to)\r\n+            Scriptor Magicae (Spell Creation)\r\n         Guns/Ranged:\r\n             Tacz Guns And Addons\r\n     Weapons\r\n         Simply Swords\r\n"
                 }
             ],
             "date": 1744580127220,
