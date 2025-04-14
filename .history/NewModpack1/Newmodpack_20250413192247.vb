@@ -63,7 +63,6 @@ Combat
             Occultism (Demon Wife = Best Wife)
             Goety
             Hex Casting
-            forbidden and arcanus(debatable)
         Guns/Ranged:
             Tacz Guns And Addons
     Weapons
