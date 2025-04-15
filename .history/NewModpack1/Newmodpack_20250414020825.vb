@@ -63,8 +63,8 @@ Combat
             Occultism (Demon Wife = Best Wife) (Cult)
             Goety (Cult)
             Hex Casting (Spell Creation)
-            Forbidden And Arcanus(debatable) 
-            Malum (Dark Magic)
+            forbidden and arcanus(debatable) 
+            Malum (Witchery)
             Spectrum (Color Magic ) (Similar to botania)
             Botania (Kinda Had to)
             Scriptor Magicae (Spell Creation)
@@ -79,20 +79,6 @@ Combat
         L2 Weaponry
     Guns/Ranged
         L2 Archery
-    Magic Addons:
-        Ars Nouveau Addons:
-            Ars Elemental
-        Irons Spells And Spellbooks Addons:
-            T.O Magic And Extras
-        Occultism Addons:
-            Ars Ocultas
-            Create Occultism
-        Goety Addons:
-            Goety Cataclysm
-            Goety & Spillage
-        Hex Casting Addons: 
-        Spectrum Addons:
-            Spectrum Jetpacks (Maybe)
     Curios
         Enigmatic Legacy
         L2 Artifacts
