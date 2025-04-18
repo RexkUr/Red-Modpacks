@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 12,
+            "activePatchIndex": 13,
             "patches": [
                 {
                     "date": 1744580127220,
@@ -56,6 +56,10 @@
                 {
                     "date": 1744746479842,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -78,8 +78,22 @@\n         Samurai Dynasty\r\n         L2 Weaponry\r\n     Guns/Ranged\r\n         L2 Archery\r\n+    Magic Addons:\r\n+        Ars Nouveau Addons:\r\n+            Ars Elemental\r\n+        Irons Spells And Spellbooks Addons:\r\n+            T.O Magic And Extras\r\n+        Occultism Addons:\r\n+            Ars Ocultas\r\n+            Create Occultism\r\n+        Goety Addons:\r\n+            Goety Cataclysm\r\n+            Goety & Spillage\r\n+        Hex Casting Addons: \r\n+        Spectrum Addons:\r\n+            Spectrum Jetpacks (Maybe)\r\n     Curios\r\n         Enigmatic Legacy\r\n         L2 Artifacts\r\n         Celestial Artifacts\r\n"
+                },
+                {
+                    "date": 1744955472955,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -67,8 +67,9 @@\n             Malum (Dark Magic)\r\n             Spectrum (Color Magic ) (Similar to botania)\r\n             Botania (Kinda Had to)\r\n             Scriptor Magicae (Spell Creation)\r\n+            Wizards Reborn(im doing something special with this one)\r\n         Guns/Ranged:(Done)\r\n             Tacz Guns\r\n     Weapons\r\n         Simply Swords\r\n"
                 }
             ],
             "date": 1744580127220,
