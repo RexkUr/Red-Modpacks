@@ -1,5 +1,5 @@
 Terrain Generation
-    Larion
+    Terralith
 Biomes
     Bwg
     Natures spirit
@@ -68,7 +68,6 @@ Combat
             Spectrum (Color Magic ) (Similar to botania)
             Botania (Kinda Had to)
             Scriptor Magicae (Spell Creation)
-            Wizards Reborn(im doing something special with this one)
         Guns/Ranged:(Done)
             Tacz Guns
     Weapons
