@@ -49,8 +49,7 @@ Client
     Sounds Physics
     EmoteCraft
     Chat Animation
-Classes
-    Origins Forge
+
 Combat
     Battle Styles
         Melee: (Done)
