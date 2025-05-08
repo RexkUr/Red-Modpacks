@@ -131,8 +131,6 @@ Bosses/Mobs
         Illage And Spillage Respillaged
         Mythic Mounts
         Terra Entity
-Content Mods
-    Terramity 1.0
 Cooking/Farming
     Farming
         Farmers Delight
@@ -141,7 +139,6 @@ Cooking/Farming
 Decoration
     Dramatic Doors
     Macaw's Furniture
-    Beautify 
 Create 
   Create Crafts And Additions
   Create Copycats

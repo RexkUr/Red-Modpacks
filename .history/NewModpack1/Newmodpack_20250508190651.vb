@@ -131,8 +131,8 @@ Bosses/Mobs
         Illage And Spillage Respillaged
         Mythic Mounts
         Terra Entity
-Content Mods
-    Terramity 1.0
+        Terramity
+
 Cooking/Farming
     Farming
         Farmers Delight
