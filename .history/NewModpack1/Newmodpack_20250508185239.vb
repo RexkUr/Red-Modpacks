@@ -130,7 +130,6 @@ Bosses/Mobs
         Hamsters
         Illage And Spillage Respillaged
         Mythic Mounts
-        Terra Entity
 Cooking/Farming
     Farming
         Farmers Delight

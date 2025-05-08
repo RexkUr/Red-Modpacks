@@ -130,21 +130,12 @@ Bosses/Mobs
         Hamsters
         Illage And Spillage Respillaged
         Mythic Mounts
-        Terra Entity
 Cooking/Farming
     Farming
         Farmers Delight
         Croptopia
     Cooking
 Decoration
-    Dramatic Doors
-    Macaw's Furniture
-Create 
-  Create Crafts And Additions
-  Create Copycats
-  Create Steam And Rails
-  Create Estrogen
-  Create Design and decor 
 
 
 
