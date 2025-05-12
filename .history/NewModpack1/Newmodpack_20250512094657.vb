@@ -14,6 +14,7 @@ Biomes
     Incendium
     William Wythers Overhauled Overworld
     Quark
+    Stony Cliffs Are cool
 
 Dimensions
     Aether , Deep Aether , Aether Redux
@@ -131,6 +132,8 @@ Bosses/Mobs
         Illage And Spillage Respillaged
         Mythic Mounts
         Terra Entity
+Content Mods
+    Terramity 1.0
 Cooking/Farming
     Farming
         Farmers Delight
@@ -140,7 +143,6 @@ Decoration
     Dramatic Doors
     Macaw's Furniture
     Beautify 
-    AMW Plushies
 Create 
   Create Crafts And Additions
   Create Copycats

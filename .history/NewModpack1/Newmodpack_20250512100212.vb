@@ -14,6 +14,7 @@ Biomes
     Incendium
     William Wythers Overhauled Overworld
     Quark
+    Stony Cliffs Are cool
 
 Dimensions
     Aether , Deep Aether , Aether Redux
