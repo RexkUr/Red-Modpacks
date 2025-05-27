@@ -68,7 +68,6 @@ Combat
             Spectrum (Color Magic ) (Similar to botania)
             Botania (Kinda Had to)
             Scriptor Magicae (Spell Creation)
-            Thaumcraft (YES)
         Guns/Ranged:(Done)
             Tacz Guns
     Weapons
