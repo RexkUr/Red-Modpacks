@@ -10,7 +10,6 @@ Biomes
     Better Nether
     Jadens expansion
     Pale Garden Backport
-    Vanilla Backport Mod
     Let's Do Mods
     Incendium
     Quark
