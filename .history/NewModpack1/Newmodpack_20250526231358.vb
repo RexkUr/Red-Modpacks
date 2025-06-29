@@ -12,6 +12,7 @@ Biomes
     Pale Garden Backport
     Let's Do Mods
     Incendium
+    William Wythers Overhauled Overworld
     Quark
 
 Dimensions
@@ -47,6 +48,8 @@ Client
     Sounds Physics
     EmoteCraft
     Chat Animation
+Classes
+    Origins Forge
 Combat
     Battle Styles
         Melee: (Done)
