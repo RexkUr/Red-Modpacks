@@ -33,7 +33,6 @@ Modpack Utils
     Connector Sinytra
     In Control!
     Crash Asistant
-    Curios + Trinkets?
 Client
     Advancement Plaques
     Camera Overhaul
@@ -146,7 +145,6 @@ Create
   Create Steam And Rails
   Create Estrogen
   Create Design and decor 
-  Create Hypertubes
 
 
 
