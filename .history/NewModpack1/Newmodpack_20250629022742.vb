@@ -52,7 +52,7 @@ Combat
     Battle Styles
         Melee: (Done)
             Better Combat
-            (temp removal) Epic Fight
+            Epic Fight
         Magic: (For The Most Part Done.)
             Irons Spells And Spellbooks (Premade Spells)
             Ars Nouveau (Spell Creation)
