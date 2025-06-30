@@ -1,6 +1,5 @@
 Terrain Generation
     Terralith
-    Underground Rivers
 Biomes
     Bwg
     Natures spirit
@@ -53,7 +52,6 @@ Combat
     Battle Styles
         Melee: (Done)
             Better Combat
-            Combat Roll
             (temp removal) Epic Fight
         Magic: (For The Most Part Done.)
             Irons Spells And Spellbooks (Premade Spells)
