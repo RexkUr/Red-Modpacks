@@ -71,6 +71,7 @@ Combat
             Thaumcraft (YES)
         Guns/Ranged:(Done)
             Tacz Guns
+            L2 Archery
     Weapons
         Simply Swords
         Simply More
@@ -78,8 +79,6 @@ Combat
         Tmapi Possibly?
         Samurai Dynasty
         L2 Weaponry
-    Guns/Ranged
-        L2 Archery
     Magic Addons:
         Ars Nouveau Addons:
             Ars Elemental
@@ -112,6 +111,8 @@ Bosses/Mobs
         L Enders Cataclysm
         EEAABS Mobs
         Terramity
+            brutality
+            lethality
         Terra Entity
         Legendary Monsters
         Marium Soulslike Weaponry
@@ -123,7 +124,6 @@ Bosses/Mobs
         Naturalist
         Born In chaos
         Demi Sky Arena
-        Ice And Fire
         Enderman Overhaul
         Creeper Overhaul
         Faunify
@@ -131,7 +131,6 @@ Bosses/Mobs
         Hamsters
         Illage And Spillage Respillaged
         Mythic Mounts
-        Terra Entity
 Cooking/Farming
     Farming
         Farmers Delight
