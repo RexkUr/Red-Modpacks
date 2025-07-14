@@ -132,6 +132,7 @@ Bosses/Mobs
         Hamsters
         Illage And Spillage Respillaged
         Mythic Mounts
+        Lummobs
 Cooking/Farming
     Farming
         Farmers Delight
