@@ -85,6 +85,8 @@ Combat
             Ars Elemental
         Irons Spells And Spellbooks Addons:
             T.O Magic And Extras
+            Cataclysm: Spellbooks
+            
         Occultism Addons:
             Ars Ocultas
             Create Occultism
