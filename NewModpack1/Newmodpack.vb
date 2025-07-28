@@ -50,6 +50,7 @@ Client
     Sounds Physics
     EmoteCraft
     Chat Animation
+    https://modrinth.com/mod/perception
 Combat
     Battle Styles
         Melee: (Done)
@@ -122,6 +123,7 @@ Bosses/Mobs
         Mowzie Mobs
         Myths And Legends
         Ice And Fire
+        https://modrinth.com/mod/mutant-monsters
     Mobs
         Alex Mobs
         Naturalist
@@ -152,6 +154,13 @@ Create
   Create Estrogen
   Create Design and decor 
   Create Hypertubes
+Ambient/Terrain Based
+    https://modrinth.com/mod/sweety-garden
+Structures 
+    https://modrinth.com/mod/hobbit-hill-village
+    https://legacy.curseforge.com/minecraft/mc-mods/giant-natural-additions
+    https://modrinth.com/mod/abridged
+
 
 
 
