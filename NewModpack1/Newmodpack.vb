@@ -124,6 +124,7 @@ Bosses/Mobs
         Myths And Legends
         Ice And Fire
         https://modrinth.com/mod/mutant-monsters
+        https://legacy.curseforge.com/minecraft/mc-mods/dark-doppelganger
     Mobs
         Alex Mobs
         Naturalist
@@ -136,7 +137,6 @@ Bosses/Mobs
         Hamsters
         Illage And Spillage Respillaged
         Mythic Mounts
-        Lummobs
 Cooking/Farming
     Farming
         Farmers Delight
@@ -156,10 +156,13 @@ Create
   Create Hypertubes
 Ambient/Terrain Based
     https://modrinth.com/mod/sweety-garden
+    https://modrinth.com/mod/herios-floral-expansion
+
 Structures 
     https://modrinth.com/mod/hobbit-hill-village
     https://legacy.curseforge.com/minecraft/mc-mods/giant-natural-additions
     https://modrinth.com/mod/abridged
+    https://legacy.curseforge.com/minecraft/mc-mods/create-structures-arise
 
 
 
