@@ -163,7 +163,12 @@ Structures
     https://legacy.curseforge.com/minecraft/mc-mods/giant-natural-additions
     https://modrinth.com/mod/abridged
     https://legacy.curseforge.com/minecraft/mc-mods/create-structures-arise
-
+    https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise
+    https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas
+    https://www.curseforge.com/minecraft/mc-mods/idas
+    https://modrinth.com/mod/sky-whale-ship
+    https://modrinth.com/mod/civilizations
+    https://legacy.curseforge.com/minecraft/mc-mods/sky-arena
 
 
 
