@@ -123,6 +123,7 @@ Bosses/Mobs
         Mowzie Mobs
         Myths And Legends
         Ice And Fire
+        https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge
         https://modrinth.com/mod/mutant-monsters
         https://legacy.curseforge.com/minecraft/mc-mods/dark-doppelganger
     Mobs
@@ -169,6 +170,7 @@ Structures
     https://modrinth.com/mod/sky-whale-ship
     https://modrinth.com/mod/civilizations
     https://legacy.curseforge.com/minecraft/mc-mods/sky-arena
+    https://legacy.curseforge.com/minecraft/mc-mods/ati-structures
 
 
 
