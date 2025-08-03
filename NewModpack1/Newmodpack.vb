@@ -126,6 +126,7 @@ Bosses/Mobs
         https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge
         https://modrinth.com/mod/mutant-monsters
         https://legacy.curseforge.com/minecraft/mc-mods/dark-doppelganger
+        https://www.curseforge.com/minecraft/mc-mods/bossesrise
     Mobs
         Alex Mobs
         Naturalist
