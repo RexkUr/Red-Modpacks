@@ -122,7 +122,7 @@ Bosses/Mobs
         Marium Soulslike Weaponry
         Mowzie Mobs
         Myths And Legends
-        Ice And Fire
+        https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons
         https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge
         https://modrinth.com/mod/mutant-monsters
         https://legacy.curseforge.com/minecraft/mc-mods/dark-doppelganger
@@ -172,7 +172,9 @@ Structures
     https://modrinth.com/mod/civilizations
     https://legacy.curseforge.com/minecraft/mc-mods/sky-arena
     https://legacy.curseforge.com/minecraft/mc-mods/ati-structures
-
+    https://modrinth.com/mod/spiral-tower-villages
+Storage
+    https://www.curseforge.com/minecraft/mc-mods/storage-racks
 
 
 
