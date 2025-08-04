@@ -149,6 +149,7 @@ Decoration
     Macaw's Furniture
     Beautify 
     AMW Plushies
+    https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
 Create 
   Create Crafts And Additions
   Create Copycats
@@ -175,6 +176,9 @@ Structures
     https://modrinth.com/mod/spiral-tower-villages
 Storage
     https://www.curseforge.com/minecraft/mc-mods/storage-racks
+    https://www.curseforge.com/minecraft/mc-mods/toms-storage
+    https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage
+    https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
 
 
 
