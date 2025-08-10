@@ -86,7 +86,7 @@ Combat
             Ars Elemental
         Irons Spells And Spellbooks Addons:
             T.O Magic And Extras
-            Cataclysm: Spellbooks
+            https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks
             
         Occultism Addons:
             Ars Ocultas
@@ -117,7 +117,7 @@ Bosses/Mobs
         EEAABS Mobs
         Terramity
             brutality
-            lethality
+            https://www.curseforge.com/minecraft/mc-mods/lethality-a-terramity-addon
         Terra Entity
         Legendary Monsters
         Marium Soulslike Weaponry
@@ -128,11 +128,11 @@ Bosses/Mobs
         https://modrinth.com/mod/mutant-monsters
         https://legacy.curseforge.com/minecraft/mc-mods/dark-doppelganger
         https://www.curseforge.com/minecraft/mc-mods/bossesrise
+        https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading
     Mobs
         Alex Mobs
         Naturalist
         Born In chaos
-        Demi Sky Arena
         Enderman Overhaul
         Creeper Overhaul
         Faunify
@@ -142,6 +142,7 @@ Bosses/Mobs
         Mythic Mounts
         https://legacy.curseforge.com/minecraft/mc-mods/more-critters
         https://www.curseforge.com/minecraft/mc-mods/critters-and-companions
+        https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts-the-unofficial-port
 Cooking/Farming
     Farming
         Farmers Delight
@@ -153,6 +154,7 @@ Decoration
     Beautify 
     AMW Plushies
     https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
+    https://www.curseforge.com/minecraft/mc-mods/supplementaries
 Create 
   Create Crafts And Additions
   Create Copycats
@@ -177,6 +179,8 @@ Structures
     https://legacy.curseforge.com/minecraft/mc-mods/sky-arena
     https://legacy.curseforge.com/minecraft/mc-mods/ati-structures
     https://modrinth.com/mod/spiral-tower-villages
+    https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl
+    https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns
 Storage
     https://www.curseforge.com/minecraft/mc-mods/storage-racks
     https://www.curseforge.com/minecraft/mc-mods/toms-storage
