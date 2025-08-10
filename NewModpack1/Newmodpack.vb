@@ -106,6 +106,7 @@ Combat
         Nameless Trinkets
         Relics
         Artifacts
+        https://www.curseforge.com/minecraft/mc-mods/more-relics
     Enchantments
         Celestial Enchantments
         Celestial Forge
@@ -139,6 +140,8 @@ Bosses/Mobs
         Hamsters
         Illage And Spillage Respillaged
         Mythic Mounts
+        https://legacy.curseforge.com/minecraft/mc-mods/more-critters
+        https://www.curseforge.com/minecraft/mc-mods/critters-and-companions
 Cooking/Farming
     Farming
         Farmers Delight
