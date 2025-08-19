@@ -143,6 +143,9 @@ Bosses/Mobs
         https://legacy.curseforge.com/minecraft/mc-mods/more-critters
         https://www.curseforge.com/minecraft/mc-mods/critters-and-companions
         https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts-the-unofficial-port
+        https://www.curseforge.com/minecraft/mc-mods/companions-mod
+        vampirism
+        https://www.curseforge.com/minecraft/mc-mods/legendary-creatures
 Cooking/Farming
     Farming
         Farmers Delight
@@ -155,6 +158,7 @@ Decoration
     AMW Plushies
     https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
     https://www.curseforge.com/minecraft/mc-mods/supplementaries
+    https://modrinth.com/mod/amendments
 Create 
   Create Crafts And Additions
   Create Copycats
@@ -181,6 +185,8 @@ Structures
     https://modrinth.com/mod/spiral-tower-villages
     https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl
     https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns
+    https://modrinth.com/datapack/explorify
+    https://modrinth.com/datapack/cherry-monastery
 Storage
     https://www.curseforge.com/minecraft/mc-mods/storage-racks
     https://www.curseforge.com/minecraft/mc-mods/toms-storage
