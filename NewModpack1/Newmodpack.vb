@@ -7,7 +7,7 @@ Biomes
     Natures spirit
     regions unexplored
     Alex Caves
-    Galosphere
+    https://www.curseforge.com/minecraft/mc-mods/galosphere
     Better End
     Better Nether
     Jadens expansion
@@ -15,7 +15,7 @@ Biomes
     Let's Do Mods
     Incendium
     Quark
-
+    https://modrinth.com/mod/biome-dither
 Dimensions
     Aether , Deep Aether , Aether Redux
     Deeper & Darker
@@ -144,8 +144,9 @@ Bosses/Mobs
         https://www.curseforge.com/minecraft/mc-mods/critters-and-companions
         https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts-the-unofficial-port
         https://www.curseforge.com/minecraft/mc-mods/companions-mod
-        vampirism
+        https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
         https://www.curseforge.com/minecraft/mc-mods/legendary-creatures
+        https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
 Cooking/Farming
     Farming
         Farmers Delight
@@ -187,6 +188,7 @@ Structures
     https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns
     https://modrinth.com/datapack/explorify
     https://modrinth.com/datapack/cherry-monastery
+    https://legacy.curseforge.com/minecraft/mc-mods/explore-ruins-aether
 Storage
     https://www.curseforge.com/minecraft/mc-mods/storage-racks
     https://www.curseforge.com/minecraft/mc-mods/toms-storage
