@@ -17,6 +17,7 @@ Biomes
     Quark
     https://modrinth.com/mod/biome-dither
     https://modrinth.com/mod/block-factorys-biomes
+    https://www.curseforge.com/minecraft/mc-mods/windsweptmod
 Dimensions
     Aether , Deep Aether , Aether Redux
     Deeper & Darker
@@ -162,6 +163,10 @@ Decoration
     https://www.curseforge.com/minecraft/mc-mods/supplementaries
     https://modrinth.com/mod/amendments
     https://modrinth.com/mod/some-more-blocks
+    https://www.curseforge.com/minecraft/mc-mods/excessive-building
+Tools/Ores
+    https://modrinth.com/mod/oreganized
+    https://modrinth.com/mod/mythicmetals
 Create 
   Create Crafts And Additions
   Create Copycats
@@ -172,6 +177,9 @@ Create
 Ambient/Terrain Based
     https://modrinth.com/mod/sweety-garden
     https://modrinth.com/mod/herios-floral-expansion
+Fun:
+    https://legacy.curseforge.com/minecraft/mc-mods/delicate-dyes
+    https://www.curseforge.com/minecraft/mc-mods/fancy-dyes
 
 Structures 
     https://modrinth.com/mod/hobbit-hill-village
