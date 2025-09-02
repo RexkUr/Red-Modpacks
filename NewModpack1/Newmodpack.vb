@@ -16,6 +16,7 @@ Biomes
     Incendium
     Quark
     https://modrinth.com/mod/biome-dither
+    https://modrinth.com/mod/block-factorys-biomes
 Dimensions
     Aether , Deep Aether , Aether Redux
     Deeper & Darker
@@ -160,6 +161,7 @@ Decoration
     https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
     https://www.curseforge.com/minecraft/mc-mods/supplementaries
     https://modrinth.com/mod/amendments
+    https://modrinth.com/mod/some-more-blocks
 Create 
   Create Crafts And Additions
   Create Copycats
