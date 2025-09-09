@@ -149,6 +149,7 @@ Bosses/Mobs
         https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
         https://www.curseforge.com/minecraft/mc-mods/legendary-creatures
         https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
+        https://legacy.curseforge.com/minecraft/mc-mods/monster-expansion
 Cooking/Farming
     Farming
         Farmers Delight
@@ -177,6 +178,7 @@ Create
 Ambient/Terrain Based
     https://modrinth.com/mod/sweety-garden
     https://modrinth.com/mod/herios-floral-expansion
+    https://legacy.curseforge.com/minecraft/mc-mods/garden-trails
 Fun:
     https://legacy.curseforge.com/minecraft/mc-mods/delicate-dyes
     https://www.curseforge.com/minecraft/mc-mods/fancy-dyes
