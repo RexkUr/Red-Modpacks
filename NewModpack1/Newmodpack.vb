@@ -201,6 +201,7 @@ Structures
     https://modrinth.com/datapack/explorify
     https://modrinth.com/datapack/cherry-monastery
     https://legacy.curseforge.com/minecraft/mc-mods/explore-ruins-aether
+    https://www.curseforge.com/minecraft/mc-mods/lrs-dynamic-dungeon
 Storage
     https://www.curseforge.com/minecraft/mc-mods/storage-racks
     https://www.curseforge.com/minecraft/mc-mods/toms-storage
