@@ -166,6 +166,7 @@ Decoration
     https://modrinth.com/mod/amendments
     https://modrinth.com/mod/some-more-blocks
     https://www.curseforge.com/minecraft/mc-mods/excessive-building
+    https://www.curseforge.com/minecraft/mc-mods/building-but-better
 Tools/Ores
     https://modrinth.com/mod/oreganized
     https://modrinth.com/mod/mythicmetals
@@ -186,6 +187,9 @@ Fun:
     https://www.curseforge.com/minecraft/mc-mods/fancy-dyes
     https://modrinth.com/mod/simple-hats
     https://www.curseforge.com/minecraft/mc-mods/blast-travel-reborn
+    https://www.curseforge.com/minecraft/mc-mods/chance-cubes
+    https://www.curseforge.com/minecraft/mc-mods/explorers-compass
+    https://www.curseforge.com/minecraft/mc-mods/natures-compass
 
 Structures 
     https://modrinth.com/mod/hobbit-hill-village
