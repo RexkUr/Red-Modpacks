@@ -150,6 +150,7 @@ Bosses/Mobs
         https://www.curseforge.com/minecraft/mc-mods/legendary-creatures
         https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
         https://legacy.curseforge.com/minecraft/mc-mods/monster-expansion
+        https://modrinth.com/mod/collectors-caravan
 Cooking/Farming
     Farming
         Farmers Delight
@@ -168,6 +169,7 @@ Decoration
 Tools/Ores
     https://modrinth.com/mod/oreganized
     https://modrinth.com/mod/mythicmetals
+    https://www.curseforge.com/minecraft/mc-mods/replication
 Create 
   Create Crafts And Additions
   Create Copycats
@@ -182,6 +184,8 @@ Ambient/Terrain Based
 Fun:
     https://legacy.curseforge.com/minecraft/mc-mods/delicate-dyes
     https://www.curseforge.com/minecraft/mc-mods/fancy-dyes
+    https://modrinth.com/mod/simple-hats
+    https://www.curseforge.com/minecraft/mc-mods/blast-travel-reborn
 
 Structures 
     https://modrinth.com/mod/hobbit-hill-village
