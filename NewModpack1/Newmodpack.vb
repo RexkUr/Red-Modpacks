@@ -167,6 +167,9 @@ Decoration
     https://modrinth.com/mod/some-more-blocks
     https://www.curseforge.com/minecraft/mc-mods/excessive-building
     https://www.curseforge.com/minecraft/mc-mods/building-but-better
+    https://www.curseforge.com/minecraft/mc-mods/diagonal-walls
+    https://www.curseforge.com/minecraft/mc-mods/diagonal-windows
+    https://www.curseforge.com/minecraft/mc-mods/diagonal-fences
 Tools/Ores
     https://modrinth.com/mod/oreganized
     https://modrinth.com/mod/mythicmetals
