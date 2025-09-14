@@ -157,10 +157,10 @@ Cooking/Farming
         Croptopia
     Cooking
 Decoration
-    Dramatic Doors
+    https://www.curseforge.com/minecraft/mc-mods/dramatic-doors
     Macaw's Furniture
-    Beautify 
-    AMW Plushies
+    https://www.curseforge.com/minecraft/mc-mods/beautify-decorate 
+    https://www.curseforge.com/minecraft/mc-mods/a-man-with-plushies
     https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
     https://www.curseforge.com/minecraft/mc-mods/supplementaries
     https://modrinth.com/mod/amendments
@@ -170,6 +170,9 @@ Decoration
     https://www.curseforge.com/minecraft/mc-mods/diagonal-walls
     https://www.curseforge.com/minecraft/mc-mods/diagonal-windows
     https://www.curseforge.com/minecraft/mc-mods/diagonal-fences
+    https://www.curseforge.com/minecraft/mc-mods/fairy-lights
+    https://www.curseforge.com/minecraft/mc-mods/handcrafted
+    https://www.curseforge.com/minecraft/mc-mods/blockus
 Tools/Ores
     https://modrinth.com/mod/oreganized
     https://modrinth.com/mod/mythicmetals
@@ -193,6 +196,8 @@ Fun:
     https://www.curseforge.com/minecraft/mc-mods/chance-cubes
     https://www.curseforge.com/minecraft/mc-mods/explorers-compass
     https://www.curseforge.com/minecraft/mc-mods/natures-compass
+    https://www.curseforge.com/minecraft/mc-mods/etched
+    https://www.curseforge.com/minecraft/mc-mods/automobility
 
 Structures 
     https://modrinth.com/mod/hobbit-hill-village
