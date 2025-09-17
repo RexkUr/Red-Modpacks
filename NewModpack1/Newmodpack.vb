@@ -73,6 +73,7 @@ Combat
             Botania (Kinda Had to)
             Scriptor Magicae (Spell Creation)
             Thaumcraft (YES)
+            https://www.curseforge.com/minecraft/mc-mods/hexerei
         Guns/Ranged:(Done)
             Tacz Guns
             L2 Archery
@@ -198,7 +199,7 @@ Fun:
     https://www.curseforge.com/minecraft/mc-mods/natures-compass
     https://www.curseforge.com/minecraft/mc-mods/etched
     https://www.curseforge.com/minecraft/mc-mods/automobility
-
+    https://www.curseforge.com/minecraft/mc-mods/cuffed (ito) (crashes with dramatic doors)
 Structures 
     https://modrinth.com/mod/hobbit-hill-village
     https://legacy.curseforge.com/minecraft/mc-mods/giant-natural-additions
