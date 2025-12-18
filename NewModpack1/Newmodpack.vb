@@ -26,6 +26,7 @@ Dimensions
     Twilight forest
     Minecells (1.8.5)
     Bumblezone
+    immersive portals
 
 
 Modpack Utils
@@ -156,7 +157,8 @@ Cooking/Farming
         Farmers Delight
         Croptopia
     Cooking
-Decoration
+    Fishing
+        https://www.curseforge.com/minecraft/mc-mods/tideDecoration
     https://www.curseforge.com/minecraft/mc-mods/dramatic-doors
     Macaw's Furniture
     https://www.curseforge.com/minecraft/mc-mods/beautify-decorate 
