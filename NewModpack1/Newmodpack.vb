@@ -3,6 +3,9 @@ Terrain Generation
     Terralith
     Underground Rivers
     Tectonic
+Modpack theoreticals?
+    loot gets better the deeper layers you go?
+
 Biomes
     Bwg
     Natures spirit
@@ -31,11 +34,13 @@ Dimensions
     infinite abyss
     blue skies
     https://modrinth.com/datapack/beyond-the-clouds/gallery
+    https://www.curseforge.com/minecraft/mc-mods/the-afterdark
 Dimension Stack
     Aether
     Beyond the clouds
     Overworld
-
+    First Layer : Infinite abyss
+    The Afterdark 
 Modpack Utils
     Kubejs
     Item Obliterator
