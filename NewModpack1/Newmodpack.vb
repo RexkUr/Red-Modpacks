@@ -2,6 +2,7 @@ Forge 47.4.0
 Terrain Generation
     Terralith
     Underground Rivers
+    Tectonic
 Biomes
     Bwg
     Natures spirit
@@ -27,7 +28,13 @@ Dimensions
     Minecells (1.8.5)
     Bumblezone
     immersive portals
-
+    infinite abyss
+    blue skies
+    https://modrinth.com/datapack/beyond-the-clouds/gallery
+Dimension Stack
+    Aether
+    Beyond the clouds
+    Overworld
 
 Modpack Utils
     Kubejs
