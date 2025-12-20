@@ -35,12 +35,15 @@ Dimensions
     blue skies
     https://modrinth.com/datapack/beyond-the-clouds/gallery
     https://www.curseforge.com/minecraft/mc-mods/the-afterdark
+    https://www.curseforge.com/minecraft/mc-mods/sky-lands
 Dimension Stack
     Aether
     Beyond the clouds
     Overworld
     First Layer : Infinite abyss
     The Afterdark 
+    Otherside : Deeper & Darker
+    Skylands : Underground
 Modpack Utils
     Kubejs
     Item Obliterator
