@@ -79,7 +79,15 @@ Combat
             Combat Roll
             Weapons:
                 https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry
-                https://www.curseforge.com/minecraft/mc-mods/dixtas-armory 
+                https://www.curseforge.com/minecraft/mc-mods/dixtas-armory
+                https://www.curseforge.com/minecraft/mc-mods/roe-weapons
+                https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
+            Unique Weapons: 
+                https://www.curseforge.com/minecraft/mc-mods/simply-swords
+                https://www.curseforge.com/minecraft/mc-mods/simply-more
+                https://www.curseforge.com/minecraft/mc-mods/nenufars-swords-weapons
+                https://www.curseforge.com/minecraft/mc-mods/tugkandemans-weaponry-reforged
+                https://modrinth.com/mod/l2weaponry
         Magic: (For The Most Part Done.)
             Irons Spells And Spellbooks (Premade Spells)
             Ars Nouveau (Spell Creation)
@@ -99,10 +107,6 @@ Combat
             Tacz Guns
             L2 Archery
     Weapons
-        Simply Swords
-        Simply More
-        Tinkers Construct
-        Tmapi Possibly?
         Samurai Dynasty
         L2 Weaponry
     Magic Addons:
