@@ -5,7 +5,11 @@ Terrain Generation
     Tectonic
 Modpack theoreticals?
     loot gets better the deeper layers you go?
-
+    sanity mod reconfig curse of abyss
+    bunch dimensions into layers
+Dev
+    Paxi
+    Feature Recycler 
 Biomes
     Bwg
     Natures spirit
@@ -73,7 +77,9 @@ Combat
         Melee: (Done)
             Better Combat
             Combat Roll
-            (temp removal) Epic Fight
+            Weapons:
+                https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry
+                https://www.curseforge.com/minecraft/mc-mods/dixtas-armory 
         Magic: (For The Most Part Done.)
             Irons Spells And Spellbooks (Premade Spells)
             Ars Nouveau (Spell Creation)
