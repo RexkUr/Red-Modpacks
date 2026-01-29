@@ -172,7 +172,6 @@ Bosses/Mobs
         https://www.curseforge.com/minecraft/mc-mods/critters-and-companions
         https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts-the-unofficial-port
         https://www.curseforge.com/minecraft/mc-mods/companions-mod
-        https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
         https://www.curseforge.com/minecraft/mc-mods/legendary-creatures
         https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
         https://legacy.curseforge.com/minecraft/mc-mods/monster-expansion
