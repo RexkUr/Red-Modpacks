@@ -77,12 +77,12 @@ Combat
         Melee: (Done)
             Better Combat
             Combat Roll
-            Weapons:
+            Weapons: (Done)
                 https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry
                 https://www.curseforge.com/minecraft/mc-mods/dixtas-armory
                 https://www.curseforge.com/minecraft/mc-mods/roe-weapons
                 https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
-            Unique Weapons: 
+            Unique Weapons: (Done)
                 https://www.curseforge.com/minecraft/mc-mods/simply-swords
                 https://www.curseforge.com/minecraft/mc-mods/simply-more
                 https://www.curseforge.com/minecraft/mc-mods/nenufars-swords-weapons
@@ -104,10 +104,9 @@ Combat
             Scriptor Magicae (Spell Creation)
             Thaumcraft (YES)
             https://www.curseforge.com/minecraft/mc-mods/hexerei
-        Guns/Ranged:(Done)
-            Tacz Guns
+        Ranged:(Done)
             L2 Archery
-    Ores:
+    Ores:(Done)
         https://www.curseforge.com/minecraft/mc-mods/mythicmetals
         https://www.curseforge.com/minecraft/mc-mods/oreganized
         https://www.curseforge.com/minecraft/mc-mods/epic-paladins
@@ -162,7 +161,6 @@ Bosses/Mobs
     Mobs
         Alex Mobs
         Naturalist
-        Born In chaos
         Enderman Overhaul
         Creeper Overhaul
         Faunify
@@ -179,6 +177,9 @@ Bosses/Mobs
         https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
         https://legacy.curseforge.com/minecraft/mc-mods/monster-expansion
         https://modrinth.com/mod/collectors-caravan
+    Enemies:
+        https://www.curseforge.com/minecraft/mc-mods/riskofrain-mobs
+        https://www.curseforge.com/minecraft/mc-mods/born-in-chaos
 Cooking/Farming
     Farming
         Farmers Delight
@@ -246,7 +247,7 @@ Structures
     https://modrinth.com/datapack/cherry-monastery
     https://legacy.curseforge.com/minecraft/mc-mods/explore-ruins-aether
     https://www.curseforge.com/minecraft/mc-mods/lrs-dynamic-dungeon
-Storage
+Storage (done)
     https://www.curseforge.com/minecraft/mc-mods/storage-racks
     https://www.curseforge.com/minecraft/mc-mods/toms-storage
     https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage
