@@ -106,6 +106,9 @@ Combat
         Guns/Ranged:(Done)
             Tacz Guns
             L2 Archery
+    Ores:
+        https://www.curseforge.com/minecraft/mc-mods/mythicmetals
+        https://www.curseforge.com/minecraft/mc-mods/oreganized
     Magic Addons:
         Ars Nouveau Addons:
             Ars Elemental
