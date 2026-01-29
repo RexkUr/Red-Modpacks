@@ -88,6 +88,7 @@ Combat
                 https://www.curseforge.com/minecraft/mc-mods/nenufars-swords-weapons
                 https://www.curseforge.com/minecraft/mc-mods/tugkandemans-weaponry-reforged
                 https://modrinth.com/mod/l2weaponry
+                https://www.curseforge.com/minecraft/mc-mods/celestisynth
         Magic: (For The Most Part Done.)
             Irons Spells And Spellbooks (Premade Spells)
             Ars Nouveau (Spell Creation)
@@ -109,6 +110,7 @@ Combat
     Ores:
         https://www.curseforge.com/minecraft/mc-mods/mythicmetals
         https://www.curseforge.com/minecraft/mc-mods/oreganized
+        https://www.curseforge.com/minecraft/mc-mods/epic-paladins
     Magic Addons:
         Ars Nouveau Addons:
             Ars Elemental
