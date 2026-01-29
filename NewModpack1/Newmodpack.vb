@@ -106,9 +106,6 @@ Combat
         Guns/Ranged:(Done)
             Tacz Guns
             L2 Archery
-    Weapons
-        Samurai Dynasty
-        L2 Weaponry
     Magic Addons:
         Ars Nouveau Addons:
             Ars Elemental
