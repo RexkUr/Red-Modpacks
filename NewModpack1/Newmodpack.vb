@@ -179,6 +179,7 @@ Bosses/Mobs
     Enemies:
         https://www.curseforge.com/minecraft/mc-mods/riskofrain-mobs
         https://www.curseforge.com/minecraft/mc-mods/born-in-chaos
+        https://www.curseforge.com/minecraft/mc-mods/mebahels-creatures-draugr
 Cooking/Farming
     Farming
         Farmers Delight
