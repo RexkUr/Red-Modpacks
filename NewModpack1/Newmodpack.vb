@@ -1,8 +1,7 @@
 Forge 47.4.0
 Terrain Generation
-    Terralith
-    Underground Rivers
-    Tectonic
+    https://www.curseforge.com/minecraft/mc-mods/terralith
+    https://www.curseforge.com/minecraft/mc-mods/tectonic-au-naturel-edit
 Modpack theoreticals?
     loot gets better the deeper layers you go?
     sanity mod reconfig curse of abyss
