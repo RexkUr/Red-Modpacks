@@ -19,6 +19,23 @@ Overworld Biomes
         https://www.curseforge.com/minecraft/mc-mods/vb-compat
         https://modrinth.com/datapack/vb-x-ru
         https://modrinth.com/datapack/vb-mob-variants-compat
+    https://www.curseforge.com/minecraft/mc-mods/quark
+    https://modrinth.com/mod/biome-dither
+    https://www.curseforge.com/minecraft/mc-mods/windsweptmod
+    Let's Do Mods
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-charm
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery-farm-charm-compat
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-bloomingnature
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-meadow
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight-farm-charm-compat
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-lilis-lucky-lures
+    https://www.curseforge.com/minecraft/mc-mods/sleepy-hollows
+    https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys
+    https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers
 Nether Biomes
     https://www.curseforge.com/minecraft/mc-mods/betternether-forge
     https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion
@@ -31,11 +48,6 @@ End Biomes
     https://www.curseforge.com/minecraft/mc-mods/betterend-forge
 
 
-    Let's Do Mods
-    Quark
-    https://modrinth.com/mod/biome-dither
-    https://modrinth.com/mod/block-factorys-biomes
-    https://www.curseforge.com/minecraft/mc-mods/windsweptmod
 Dimensions
     Aether , Deep Aether , Aether Redux
     Deeper & Darker
@@ -224,10 +236,6 @@ Create
   Create Estrogen
   Create Design and decor 
   Create Hypertubes
-Ambient/Terrain Based
-    https://modrinth.com/mod/sweety-garden
-    https://modrinth.com/mod/herios-floral-expansion
-    https://legacy.curseforge.com/minecraft/mc-mods/garden-trails
 Fun:
     https://legacy.curseforge.com/minecraft/mc-mods/delicate-dyes
     https://www.curseforge.com/minecraft/mc-mods/fancy-dyes
