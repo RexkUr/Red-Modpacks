@@ -1,5 +1,5 @@
 Forge 47.4.0
-Terrain Generation
+Terrain Generation (Done)
     https://www.curseforge.com/minecraft/mc-mods/terralith
     https://www.curseforge.com/minecraft/mc-mods/tectonic-au-naturel-edit
 Modpack theoreticals?
@@ -9,18 +9,29 @@ Modpack theoreticals?
 Dev
     Paxi
     Feature Recycler 
-Biomes
-    Bwg
-    Natures spirit
-    regions unexplored
-    Alex Caves
+Overworld Biomes
+    https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone
+    https://www.curseforge.com/minecraft/mc-mods/natures-spirit
+    https://www.curseforge.com/minecraft/mc-mods/regions-unexplored
+    https://www.curseforge.com/minecraft/mc-mods/alexs-caves
     https://www.curseforge.com/minecraft/mc-mods/galosphere
-    Better End
-    Better Nether
-    Jadens expansion
-    Vanilla Backport Mod
+    https://www.curseforge.com/minecraft/mc-mods/vanillabackport
+        https://www.curseforge.com/minecraft/mc-mods/vb-compat
+        https://modrinth.com/datapack/vb-x-ru
+        https://modrinth.com/datapack/vb-mob-variants-compat
+Nether Biomes
+    https://www.curseforge.com/minecraft/mc-mods/betternether-forge
+    https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion
+    https://www.curseforge.com/minecraft/mc-mods/incendium
+    https://www.curseforge.com/minecraft/mc-mods/cinderscapes
+    https://www.curseforge.com/minecraft/mc-mods/nether-biomes-compat
+    https://modrinth.com/mod/biolith/versions?g=1.20.1&l=forge
+
+End Biomes
+    https://www.curseforge.com/minecraft/mc-mods/betterend-forge
+
+
     Let's Do Mods
-    Incendium
     Quark
     https://modrinth.com/mod/biome-dither
     https://modrinth.com/mod/block-factorys-biomes
