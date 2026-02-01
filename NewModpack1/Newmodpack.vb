@@ -100,6 +100,7 @@ Combat
         Melee: (Done)
             Better Combat
             Combat Roll
+            https://www.curseforge.com/minecraft/mc-mods/shield-expansion
             Weapons: (Done)
                 https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry
                 https://www.curseforge.com/minecraft/mc-mods/dixtas-armory
