@@ -46,30 +46,31 @@ Nether Biomes
 
 End Biomes
     https://www.curseforge.com/minecraft/mc-mods/betterend-forge
+    https://www.curseforge.com/minecraft/mc-mods/mofus-broken-constellation
+    https://www.curseforge.com/minecraft/mc-mods/eldritch-end
+    https://www.curseforge.com/minecraft/mc-mods/endergetic
+    https://www.curseforge.com/minecraft/mc-mods/the-outer-end
 
-
-Dimensions
-    Aether , Deep Aether , Aether Redux
-    Deeper & Darker
-    Macabre
-    Undergarden
-    Twilight forest
-    Minecells (1.8.5)
-    Bumblezone
-    immersive portals
-    infinite abyss
-    blue skies
-    https://modrinth.com/datapack/beyond-the-clouds/gallery
-    https://www.curseforge.com/minecraft/mc-mods/the-afterdark
+Other Dimensions
+    https://www.curseforge.com/minecraft/mc-mods/aether
+        https://www.curseforge.com/minecraft/mc-mods/deep-aether
+        https://www.curseforge.com/minecraft/mc-mods/aether-villages
+        https://www.curseforge.com/minecraft/mc-mods/aether-lost-content
+        https://www.curseforge.com/minecraft/mc-mods/aether-redux
+        https://www.curseforge.com/minecraft/mc-mods/aether-treasure-reforging
+    https://www.curseforge.com/minecraft/mc-mods/deeperdarker
+    https://www.curseforge.com/minecraft/mc-mods/macabre
+    https://www.curseforge.com/minecraft/mc-mods/the-undergarden
+    https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
+    https://modrinth.com/mod/minecells
+    https://modrinth.com/mod/the-bumblezone
+    https://modrinth.com/mod/immersive-portals-neoforge
+    https://modrinth.com/mod/infinite-abyss
+    https://www.curseforge.com/minecraft/mc-mods/blue-skies
+    https://modrinth.com/datapack/beyond-the-clouds
     https://www.curseforge.com/minecraft/mc-mods/sky-lands
-Dimension Stack
-    Aether
-    Beyond the clouds
-    Overworld
-    First Layer : Infinite abyss
-    The Afterdark 
-    Otherside : Deeper & Darker
-    Skylands : Underground
+    https://www.curseforge.com/minecraft/mc-mods/the-ceilands
+
 Modpack Utils
     Kubejs
     Item Obliterator
