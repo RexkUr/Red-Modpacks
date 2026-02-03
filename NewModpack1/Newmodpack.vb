@@ -22,6 +22,8 @@ Overworld Biomes
     https://www.curseforge.com/minecraft/mc-mods/quark
     https://modrinth.com/mod/biome-dither
     https://www.curseforge.com/minecraft/mc-mods/windsweptmod
+    https://www.curseforge.com/minecraft/mc-mods/dynamictrees
+    https://www.curseforge.com/minecraft/mc-mods/autumnity
     Let's Do Mods
         https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery
         https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews
@@ -71,41 +73,20 @@ Other Dimensions
     https://www.curseforge.com/minecraft/mc-mods/sky-lands
     https://www.curseforge.com/minecraft/mc-mods/the-ceilands
 
-Modpack Utils
-    Kubejs
-    Item Obliterator
-    Block Swap
-    CraftTweaker
-    Connector Sinytra
-    In Control!
-    Crash Asistant
-    Curios + Trinkets?
-Client
-    Advancement Plaques
-    Camera Overhaul
-    Emi (Tmrv)
-    Embeddium
-    Jade
-    Eating Animation
-    Dynamic Crosshair
-    Shoulder Surfing Reloaded
-    Mouse Tweaks
-    Ambient Sounds
-    Sounds Physics
-    EmoteCraft
-    Chat Animation
-    https://modrinth.com/mod/perception
 Combat
     Battle Styles
         Melee: (Done)
             Better Combat
             Combat Roll
             https://www.curseforge.com/minecraft/mc-mods/shield-expansion
+            https://www.curseforge.com/minecraft/mc-mods/mine-and-slash-reloaded
             Weapons: (Done)
                 https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry
                 https://www.curseforge.com/minecraft/mc-mods/dixtas-armory
                 https://www.curseforge.com/minecraft/mc-mods/roe-weapons
                 https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
+                    Addons:
+                    https://legacy.curseforge.com/minecraft/mc-mods/constructs-casting
             Unique Weapons: (Done)
                 https://www.curseforge.com/minecraft/mc-mods/simply-swords
                 https://www.curseforge.com/minecraft/mc-mods/simply-more
@@ -115,10 +96,27 @@ Combat
                 https://www.curseforge.com/minecraft/mc-mods/celestisynth
         Magic: (For The Most Part Done.)
             Irons Spells And Spellbooks (Premade Spells)
+                Addons:
+                https://legacy.curseforge.com/minecraft/mc-mods/unified-combat
+                https://legacy.curseforge.com/minecraft/mc-mods/refinedrains-spells
+                https://legacy.curseforge.com/minecraft/mc-mods/hazen-n-stuff
+                https://legacy.curseforge.com/minecraft/mc-mods/alshanexs-familiars
+                https://legacy.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks
+                https://legacy.curseforge.com/minecraft/texture-packs/irons-spells-weapons-reimagined
+                https://legacy.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells
+                https://legacy.curseforge.com/minecraft/mc-mods/ice-and-fire-spellbooks
+                https://legacy.curseforge.com/minecraft/mc-mods/magic-circles-isas-addon
+                https://legacy.curseforge.com/minecraft/mc-mods/gtbcs-geomancy-plus
+                https://legacy.curseforge.com/minecraft/mc-mods/illage-and-spell-age
+                https://legacy.curseforge.com/minecraft/mc-mods/deeper-and-darker-spellbooks
+                https://legacy.curseforge.com/minecraft/mc-mods/alexs-caves-spellbooks
             Ars Nouveau (Spell Creation)
+                Addons:
+
+
             Enchanted Witchcraft (Witchery)
-            Mahou Tsukai (Premade Spells)
             Occultism (Demon Wife = Best Wife) (Cult)
+            Blood Magic (Blood Magic)
             Goety (Cult)
             Hex Casting (Spell Creation)
             Forbidden And Arcanus(debatable) 
@@ -163,6 +161,31 @@ Combat
     Enchantments
         Celestial Enchantments
         Celestial Forge
+Modpack Utils
+    Kubejs
+    Item Obliterator
+    Block Swap
+    CraftTweaker
+    Connector Sinytra
+    In Control!
+    Crash Asistant
+    Curios + Trinkets?
+Client
+    Advancement Plaques
+    Camera Overhaul
+    Emi (Tmrv)
+    Embeddium
+    Jade
+    Eating Animation
+    Dynamic Crosshair
+    Shoulder Surfing Reloaded
+    Mouse Tweaks
+    Ambient Sounds
+    Sounds Physics
+    EmoteCraft
+    Chat Animation
+    https://modrinth.com/mod/perception
+
 Bosses/Mobs
     Bosses
         Aquamirae
