@@ -112,11 +112,20 @@ Combat
                 https://legacy.curseforge.com/minecraft/mc-mods/alexs-caves-spellbooks
             Ars Nouveau (Spell Creation)
                 Addons:
-
-
+                https://legacy.curseforge.com/minecraft/mc-mods/not-enough-glyphs
+                https://legacy.curseforge.com/minecraft/mc-mods/hex-ars-linker
+                https://legacy.curseforge.com/minecraft/mc-mods/adams-ars-plus
+                https://legacy.curseforge.com/minecraft/mc-mods/ars-elemental
+                https://legacy.curseforge.com/minecraft/mc-mods/ars-creo
+                https://legacy.curseforge.com/minecraft/mc-mods/tome-of-blood-rebirth
+                https://legacy.curseforge.com/minecraft/mc-mods/ars-ocultas
+                https://www.curseforge.com/minecraft/mc-mods/ars-scalaes
+                https://www.curseforge.com/minecraft/mc-mods/ars-knightsnmages
             Enchanted Witchcraft (Witchery)
             Occultism (Demon Wife = Best Wife) (Cult)
             Blood Magic (Blood Magic)
+                Addons:
+                https://legacy.curseforge.com/minecraft/mc-mods/animus
             Goety (Cult)
             Hex Casting (Spell Creation)
             Forbidden And Arcanus(debatable) 
