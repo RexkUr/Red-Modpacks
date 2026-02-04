@@ -151,7 +151,7 @@ Combat
         https://www.curseforge.com/minecraft/mc-mods/mythicmetals
         https://www.curseforge.com/minecraft/mc-mods/oreganized
         https://www.curseforge.com/minecraft/mc-mods/epic-paladins
-    Curios
+    Curios (Done)
         https://www.curseforge.com/minecraft/mc-mods/relics-mod
         https://www.curseforge.com/minecraft/mc-mods/more-relics
         https://www.curseforge.com/minecraft/mc-mods/artifacts
@@ -166,9 +166,10 @@ Combat
         https://legacy.curseforge.com/minecraft/mc-mods/enigmatic-legacy
         https://www.curseforge.com/minecraft/mc-mods/enigmatic-addons
         https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations
-        L2 Artifacts
-        Celestial Artifacts
-        Chromatic Arsenal
+        https://www.curseforge.com/minecraft/mc-mods/celestial-artifacts
+        https://www.curseforge.com/minecraft/mc-mods/l2-artifacts
+        https://www.curseforge.com/minecraft/mc-mods/curse-of-pandora
+        https://legacy.curseforge.com/minecraft/mc-mods/chromatic-arsenal
     Enchantments
         Celestial Enchantments
         Celestial Forge
