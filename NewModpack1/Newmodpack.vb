@@ -141,29 +141,34 @@ Combat
             Scriptor Magicae (Spell Creation)
             Thaumcraft (YES)
             https://www.curseforge.com/minecraft/mc-mods/hexerei
+            https://modrinth.com/mod/etheria
+                Addons:
+                https://www.curseforge.com/minecraft/mc-mods/etheria-botania-integration
         Ranged:(Done)
-            L2 Archery
+            https://www.curseforge.com/minecraft/mc-mods/l2-archery
+            https://www.curseforge.com/minecraft/mc-mods/archers-paradox
     Ores:(Done)
         https://www.curseforge.com/minecraft/mc-mods/mythicmetals
         https://www.curseforge.com/minecraft/mc-mods/oreganized
         https://www.curseforge.com/minecraft/mc-mods/epic-paladins
-    Magic Addons:
-        Goety Addons:
-            Goety Cataclysm
-            Goety & Spillage
-        Hex Casting Addons: 
-        Spectrum Addons:
-            Spectrum Jetpacks (Maybe)
     Curios
-        Enigmatic Legacy
+        https://www.curseforge.com/minecraft/mc-mods/relics-mod
+        https://www.curseforge.com/minecraft/mc-mods/more-relics
+        https://www.curseforge.com/minecraft/mc-mods/artifacts
+        https://www.curseforge.com/minecraft/mc-mods/rar-compat
+        https://www.curseforge.com/minecraft/mc-mods/rac-compat
+        https://www.curseforge.com/minecraft/mc-mods/ram-compat
+        https://legacy.curseforge.com/minecraft/mc-mods/more-artifacts
+        https://modrinth.com/mod/moonstone
+        https://legacy.curseforge.com/minecraft/mc-mods/nameless-trinkets
+        https://www.curseforge.com/minecraft/mc-mods/terra-curio
+        https://legacy.curseforge.com/minecraft/mc-mods/unique-accessories
+        https://legacy.curseforge.com/minecraft/mc-mods/enigmatic-legacy
+        https://www.curseforge.com/minecraft/mc-mods/enigmatic-addons
+        https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations
         L2 Artifacts
         Celestial Artifacts
         Chromatic Arsenal
-        Terra Curio
-        Nameless Trinkets
-        Relics
-        Artifacts
-        https://www.curseforge.com/minecraft/mc-mods/more-relics
     Enchantments
         Celestial Enchantments
         Celestial Forge
