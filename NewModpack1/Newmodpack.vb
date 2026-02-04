@@ -127,6 +127,12 @@ Combat
                 Addons:
                 https://legacy.curseforge.com/minecraft/mc-mods/animus
             Goety (Cult)
+                Addons:
+                https://legacy.curseforge.com/minecraft/mc-mods/goety-awaken
+                https://legacy.curseforge.com/minecraft/mc-mods/goety-spillage
+                https://legacy.curseforge.com/minecraft/mc-mods/goety-cataclysm
+                https://legacy.curseforge.com/minecraft/mc-mods/goety-twilight
+                https://www.curseforge.com/minecraft/mc-mods/goety-iron
             Hex Casting (Spell Creation)
             Forbidden And Arcanus(debatable) 
             Malum (Dark Magic)
@@ -142,15 +148,6 @@ Combat
         https://www.curseforge.com/minecraft/mc-mods/oreganized
         https://www.curseforge.com/minecraft/mc-mods/epic-paladins
     Magic Addons:
-        Ars Nouveau Addons:
-            Ars Elemental
-        Irons Spells And Spellbooks Addons:
-            T.O Magic And Extras
-            https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks
-            
-        Occultism Addons:
-            Ars Ocultas
-            Create Occultism
         Goety Addons:
             Goety Cataclysm
             Goety & Spillage
