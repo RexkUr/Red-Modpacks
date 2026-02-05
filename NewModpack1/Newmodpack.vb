@@ -171,8 +171,16 @@ Combat
         https://www.curseforge.com/minecraft/mc-mods/curse-of-pandora
         https://legacy.curseforge.com/minecraft/mc-mods/chromatic-arsenal
     Enchantments
-        Celestial Enchantments
-        Celestial Forge
+        https://www.curseforge.com/minecraft/mc-mods/enchantment-limiter
+        https://www.curseforge.com/minecraft/mc-mods/majo-spell-enchantment
+        https://www.curseforge.com/minecraft/mc-mods/mo-enchantments
+        https://legacy.curseforge.com/minecraft/mc-mods/more-curses
+        https://www.curseforge.com/minecraft/mc-mods/just-a-lot-more-enchantments
+        https://www.curseforge.com/minecraft/mc-mods/additional-enchantments
+        https://www.curseforge.com/minecraft/mc-mods/celestial-enchantments
+        https://www.curseforge.com/minecraft/mc-mods/l2-complements
+        https://legacy.curseforge.com/minecraft/mc-mods/ensorcellation
+        https://www.curseforge.com/minecraft/mc-mods/allurement
 Modpack Utils
     Kubejs
     Item Obliterator
@@ -263,8 +271,7 @@ Cooking/Farming
     https://www.curseforge.com/minecraft/mc-mods/handcrafted
     https://www.curseforge.com/minecraft/mc-mods/blockus
 Tools/Ores
-    https://modrinth.com/mod/oreganized
-    https://modrinth.com/mod/mythicmetals
+
     https://www.curseforge.com/minecraft/mc-mods/replication
 Create 
   Create Crafts And Additions
