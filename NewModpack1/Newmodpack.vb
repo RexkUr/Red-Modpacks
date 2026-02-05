@@ -179,30 +179,6 @@ Combat
         https://www.curseforge.com/minecraft/mc-mods/l2-complements
         https://legacy.curseforge.com/minecraft/mc-mods/ensorcellation
         https://www.curseforge.com/minecraft/mc-mods/allurement
-Modpack Utils
-    Kubejs
-    Item Obliterator
-    Block Swap
-    CraftTweaker
-    Connector Sinytra
-    In Control!
-    Crash Asistant
-    Curios + Trinkets?
-Client
-    Advancement Plaques
-    Camera Overhaul
-    Emi (Tmrv)
-    Embeddium
-    Jade
-    Eating Animation
-    Dynamic Crosshair
-    Shoulder Surfing Reloaded
-    Mouse Tweaks
-    Ambient Sounds
-    Sounds Physics
-    EmoteCraft
-    Chat Animation
-    https://modrinth.com/mod/perception
 
 Bosses/Mobs
     Bosses
@@ -315,5 +291,27 @@ Storage (done)
 
 
 
-
+Modpack Utils
+    Kubejs
+    Item Obliterator
+    Block Swap
+    CraftTweaker
+    Connector Sinytra
+    In Control!
+    Crash Asistant
+Client
+    Advancement Plaques
+    Camera Overhaul
+    Emi (Tmrv)
+    Embeddium
+    Jade
+    Eating Animation
+    Dynamic Crosshair
+    Shoulder Surfing Reloaded
+    Mouse Tweaks
+    Ambient Sounds
+    Sounds Physics
+    EmoteCraft
+    Chat Animation
+    https://modrinth.com/mod/perception
 
