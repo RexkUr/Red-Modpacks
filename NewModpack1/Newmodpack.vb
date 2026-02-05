@@ -49,8 +49,6 @@ Nether Biomes
 End Biomes
     https://www.curseforge.com/minecraft/mc-mods/betterend-forge
     https://www.curseforge.com/minecraft/mc-mods/mofus-broken-constellation
-    https://www.curseforge.com/minecraft/mc-mods/eldritch-end
-    https://www.curseforge.com/minecraft/mc-mods/endergetic
     https://www.curseforge.com/minecraft/mc-mods/the-outer-end
 
 Other Dimensions
