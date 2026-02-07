@@ -182,32 +182,44 @@ Combat
 
 Bosses/Mobs
     Bosses
-        Aquamirae
-        L Enders Cataclysm
-        EEAABS Mobs
-        Terramity
-            brutality
-            https://www.curseforge.com/minecraft/mc-mods/lethality-a-terramity-addon
-        Terra Entity
-        Legendary Monsters
-        Marium Soulslike Weaponry
-        Mowzie Mobs
-        Myths And Legends
+        https://www.curseforge.com/minecraft/mc-mods/aquamirae
+        https://www.curseforge.com/minecraft/mc-mods/lendercataclysm
+        https://www.curseforge.com/minecraft/mc-mods/legendary-monsters
+        https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs
+            https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs-custom-bossbars
+        https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry
         https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons
         https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge
-        https://modrinth.com/mod/mutant-monsters
-        https://legacy.curseforge.com/minecraft/mc-mods/dark-doppelganger
-        https://www.curseforge.com/minecraft/mc-mods/bossesrise
         https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading
+        https://www.curseforge.com/minecraft/mc-mods/mutant-monsters
+            https://www.curseforge.com/minecraft/mc-mods/new-mutant-more
+        https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs
+        https://modrinth.com/mod/illage-and-spillage-respillaged
+        https://www.curseforge.com/minecraft/mc-mods/bossesrise
+        https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening
+        https://modrinth.com/mod/craft-of-the-wild-cotw
+        https://www.curseforge.com/minecraft/mc-mods/desert-behemoths-sandworms
+        https://www.curseforge.com/minecraft/mc-mods/dark-doppelganger
+        https://www.curseforge.com/minecraft/mc-mods/myths-n-legends
+        https://www.curseforge.com/minecraft/mc-mods/monster-expansion
+        https://www.curseforge.com/minecraft/mc-mods/terramity
+            https://www.curseforge.com/minecraft/mc-mods/astrality
+            https://www.curseforge.com/minecraft/mc-mods/mortality-a-terramity-addon
+            https://www.curseforge.com/minecraft/mc-mods/brutality-a-terramity-addon
+            https://www.curseforge.com/minecraft/mc-mods/lethality-a-terramity-addon
+
+
+
+        Terra Entity
+        
     Mobs
-        Alex Mobs
+        https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
         Naturalist
         Enderman Overhaul
         Creeper Overhaul
         Faunify
         Hybrid Aquatic
         Hamsters
-        Illage And Spillage Respillaged
         Mythic Mounts
         https://legacy.curseforge.com/minecraft/mc-mods/more-critters
         https://www.curseforge.com/minecraft/mc-mods/critters-and-companions
@@ -215,7 +227,6 @@ Bosses/Mobs
         https://www.curseforge.com/minecraft/mc-mods/companions-mod
         https://www.curseforge.com/minecraft/mc-mods/legendary-creatures
         https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
-        https://legacy.curseforge.com/minecraft/mc-mods/monster-expansion
         https://modrinth.com/mod/collectors-caravan
     Enemies:
         https://www.curseforge.com/minecraft/mc-mods/riskofrain-mobs
@@ -283,6 +294,7 @@ Structures
     https://modrinth.com/datapack/cherry-monastery
     https://legacy.curseforge.com/minecraft/mc-mods/explore-ruins-aether
     https://www.curseforge.com/minecraft/mc-mods/lrs-dynamic-dungeon
+    https://www.curseforge.com/minecraft/mc-mods/integrated-cataclysm
 Storage (done)
     https://www.curseforge.com/minecraft/mc-mods/storage-racks
     https://www.curseforge.com/minecraft/mc-mods/toms-storage
