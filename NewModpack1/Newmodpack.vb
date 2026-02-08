@@ -149,6 +149,7 @@ Combat
         https://www.curseforge.com/minecraft/mc-mods/mythicmetals
         https://www.curseforge.com/minecraft/mc-mods/oreganized
         https://www.curseforge.com/minecraft/mc-mods/epic-paladins
+        https://www.curseforge.com/minecraft/mc-mods/tohiro-ores
     Curios (Done)
         https://www.curseforge.com/minecraft/mc-mods/relics-mod
         https://www.curseforge.com/minecraft/mc-mods/more-relics
@@ -225,19 +226,54 @@ Bosses/Mobs
         https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic
         https://www.curseforge.com/minecraft/mc-mods/hybrid-birds
         https://github.com/RexkUr/AdventureZ
-        Hamsters
-        Mythic Mounts
-        https://legacy.curseforge.com/minecraft/mc-mods/more-critters
+        https://www.curseforge.com/minecraft/mc-mods/hamsters
+        https://www.curseforge.com/minecraft/mc-mods/more-critters
         https://www.curseforge.com/minecraft/mc-mods/critters-and-companions
-        https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts-the-unofficial-port
         https://www.curseforge.com/minecraft/mc-mods/companions-mod
-        https://www.curseforge.com/minecraft/mc-mods/legendary-creatures
-        https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
+        https://www.curseforge.com/minecraft/mc-mods/knight-quest-reforged
         https://modrinth.com/mod/collectors-caravan
-    Enemies:
         https://www.curseforge.com/minecraft/mc-mods/riskofrain-mobs
         https://www.curseforge.com/minecraft/mc-mods/born-in-chaos
         https://www.curseforge.com/minecraft/mc-mods/mebahels-creatures-draugr
+        https://www.curseforge.com/minecraft/mc-mods/illager-invasion
+        https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear
+        https://www.curseforge.com/minecraft/mc-mods/wither-reincarnated
+        https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
+            https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-even-more-dragons
+        https://www.curseforge.com/minecraft/mc-mods/mythic-mounts-forge
+        https://www.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn
+        https://www.curseforge.com/minecraft/mc-mods/ghost
+        https://www.curseforge.com/minecraft/mc-mods/exotic-birds
+       
+Decoration
+    https://www.curseforge.com/minecraft/mc-mods/abyssal-decor
+    https://www.curseforge.com/minecraft/mc-mods/dramatic-doors
+    https://www.curseforge.com/minecraft/mc-mods/handcrafted
+    https://www.curseforge.com/minecraft/mc-mods/chipped
+    https://modrinth.com/mod/some-more-blocks/gallery
+    https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared
+    https://www.curseforge.com/minecraft/mc-mods/supplementaries
+    https://modrinth.com/mod/amendments
+    https://www.curseforge.com/minecraft/mc-mods/diagonal-walls
+    https://www.curseforge.com/minecraft/mc-mods/diagonal-windows
+    https://www.curseforge.com/minecraft/mc-mods/diagonal-fences
+    https://www.curseforge.com/minecraft/mc-mods/excessive-building
+    https://www.curseforge.com/minecraft/mc-mods/building-but-better
+    https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn
+    https://www.curseforge.com/minecraft/mc-mods/beautify-decorate 
+    https://www.curseforge.com/minecraft/mc-mods/a-man-with-plushies
+    https://www.curseforge.com/minecraft/mc-mods/fairy-lights
+    https://www.curseforge.com/minecraft/mc-mods/blockus
+    https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
+    https://www.curseforge.com/minecraft/mc-mods/fangs-textiles-and-trinkets
+    https://www.curseforge.com/minecraft/mc-mods/cluttered
+
+Coremods
+    https://www.curseforge.com/minecraft/mc-mods/sanity-descent-into-madness
+    https://www.curseforge.com/minecraft/mc-mods/revive-me
+
+
+
 Cooking/Farming
     Farming
         Farmers Delight
@@ -245,22 +281,10 @@ Cooking/Farming
     Cooking
     Fishing
         https://www.curseforge.com/minecraft/mc-mods/tideDecoration
-    https://www.curseforge.com/minecraft/mc-mods/dramatic-doors
     Macaw's Furniture
-    https://www.curseforge.com/minecraft/mc-mods/beautify-decorate 
-    https://www.curseforge.com/minecraft/mc-mods/a-man-with-plushies
-    https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
-    https://www.curseforge.com/minecraft/mc-mods/supplementaries
-    https://modrinth.com/mod/amendments
-    https://modrinth.com/mod/some-more-blocks
-    https://www.curseforge.com/minecraft/mc-mods/excessive-building
-    https://www.curseforge.com/minecraft/mc-mods/building-but-better
-    https://www.curseforge.com/minecraft/mc-mods/diagonal-walls
-    https://www.curseforge.com/minecraft/mc-mods/diagonal-windows
-    https://www.curseforge.com/minecraft/mc-mods/diagonal-fences
-    https://www.curseforge.com/minecraft/mc-mods/fairy-lights
-    https://www.curseforge.com/minecraft/mc-mods/handcrafted
-    https://www.curseforge.com/minecraft/mc-mods/blockus
+
+
+
 Tools/Ores
 
     https://www.curseforge.com/minecraft/mc-mods/replication
@@ -306,7 +330,6 @@ Storage (done)
     https://www.curseforge.com/minecraft/mc-mods/toms-storage
     https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage
     https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
-
 
 
 Modpack Utils
