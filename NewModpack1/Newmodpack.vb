@@ -267,34 +267,57 @@ Decoration
     https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
     https://www.curseforge.com/minecraft/mc-mods/fangs-textiles-and-trinkets
     https://www.curseforge.com/minecraft/mc-mods/cluttered
+    https://www.curseforge.com/minecraft/mc-mods/macaws-stairs
+    https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings
+    https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps
+    https://www.curseforge.com/minecraft/mc-mods/macaws-roofs
+    https://www.curseforge.com/minecraft/mc-mods/macaws-furniture
+    https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors
+    https://www.curseforge.com/minecraft/mc-mods/macaws-doors
+    https://www.curseforge.com/minecraft/mc-mods/macaws-windows
+    https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls
+    https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
 
 Coremods
     https://www.curseforge.com/minecraft/mc-mods/sanity-descent-into-madness
     https://www.curseforge.com/minecraft/mc-mods/revive-me
+    https://www.curseforge.com/minecraft/mc-mods/replication
+    https://www.curseforge.com/minecraft/mc-mods/mining-master
+
+Fishing
+    https://modrinth.com/mod/tide
+    https://www.curseforge.com/minecraft/mc-mods/starcatcher
+    https://www.curseforge.com/minecraft/mc-mods/nether-depths-upgrade
+    https://www.curseforge.com/minecraft/mc-mods/fintastic
+    https://www.curseforge.com/minecraft/mc-mods/unusual-fish-mod
+    https://modrinth.com/mod/aquaculture
+    https://modrinth.com/datapack/tide-extra-compatibility
+
+Create
+    https://www.curseforge.com/minecraft/mc-mods/copycats
+    https://www.curseforge.com/minecraft/mc-mods/hypertubes
+    https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails
+    https://www.curseforge.com/minecraft/mc-mods/testosterone
+    https://www.curseforge.com/minecraft/mc-mods/create-estrogen
+    https://www.curseforge.com/minecraft/mc-mods/createaddition
+    https://modrinth.com/mod/create-misc-and-things
 
 
 
-Cooking/Farming
+
+
+
+
+
+    Cooking/Farming
     Farming
         Farmers Delight
         Croptopia
     Cooking
-    Fishing
-        https://www.curseforge.com/minecraft/mc-mods/tideDecoration
-    Macaw's Furniture
 
 
 
-Tools/Ores
-
-    https://www.curseforge.com/minecraft/mc-mods/replication
-Create 
-  Create Crafts And Additions
-  Create Copycats
-  Create Steam And Rails
-  Create Estrogen
-  Create Design and decor 
-  Create Hypertubes
+    
 Fun:
     https://legacy.curseforge.com/minecraft/mc-mods/delicate-dyes
     https://www.curseforge.com/minecraft/mc-mods/fancy-dyes
