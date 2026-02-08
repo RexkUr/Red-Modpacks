@@ -283,6 +283,8 @@ Coremods
     https://www.curseforge.com/minecraft/mc-mods/revive-me
     https://www.curseforge.com/minecraft/mc-mods/replication
     https://www.curseforge.com/minecraft/mc-mods/mining-master
+    https://www.curseforge.com/minecraft/mc-mods/cold-sweat
+    https://www.curseforge.com/minecraft/mc-mods/spice-of-life-onion
 
 Fishing
     https://modrinth.com/mod/tide
@@ -302,10 +304,17 @@ Create
     https://www.curseforge.com/minecraft/mc-mods/createaddition
     https://modrinth.com/mod/create-misc-and-things
 
-
-
-
-
+Fun
+    https://www.curseforge.com/minecraft/mc-mods/etched
+    https://www.curseforge.com/minecraft/mc-mods/simplehats
+    https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+    https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge
+    https://www.curseforge.com/minecraft/mc-mods/emotetweaks-fork
+    https://www.curseforge.com/minecraft/mc-mods/accents
+    https://modrinth.com/mod/delicate-dyes
+    https://www.curseforge.com/minecraft/mc-mods/explorers-compass
+    https://www.curseforge.com/minecraft/mc-mods/natures-compass
+    https://modrinth.com/mod/automobility
 
 
 
@@ -317,17 +326,7 @@ Create
 
 
 
-    
-Fun:
-    https://legacy.curseforge.com/minecraft/mc-mods/delicate-dyes
-    https://www.curseforge.com/minecraft/mc-mods/fancy-dyes
-    https://modrinth.com/mod/simple-hats
-    https://www.curseforge.com/minecraft/mc-mods/blast-travel-reborn
-    https://www.curseforge.com/minecraft/mc-mods/chance-cubes
-    https://www.curseforge.com/minecraft/mc-mods/explorers-compass
-    https://www.curseforge.com/minecraft/mc-mods/natures-compass
-    https://www.curseforge.com/minecraft/mc-mods/etched
-    https://www.curseforge.com/minecraft/mc-mods/automobility
+
 Structures 
     https://modrinth.com/mod/hobbit-hill-village
     https://legacy.curseforge.com/minecraft/mc-mods/giant-natural-additions
