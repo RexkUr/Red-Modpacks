@@ -179,6 +179,7 @@ Combat
         https://www.curseforge.com/minecraft/mc-mods/l2-complements
         https://legacy.curseforge.com/minecraft/mc-mods/ensorcellation
         https://www.curseforge.com/minecraft/mc-mods/allurement
+        https://www.curseforge.com/minecraft/mc-mods/soul-fire-d
 
 Bosses/Mobs
     Bosses
@@ -207,6 +208,8 @@ Bosses/Mobs
             https://www.curseforge.com/minecraft/mc-mods/mortality-a-terramity-addon
             https://www.curseforge.com/minecraft/mc-mods/brutality-a-terramity-addon
             https://www.curseforge.com/minecraft/mc-mods/lethality-a-terramity-addon
+        https://www.curseforge.com/minecraft/mc-mods/the-conjurer
+        https://www.curseforge.com/minecraft/mc-mods/fathomless-crimson
 
 
 
@@ -214,11 +217,14 @@ Bosses/Mobs
         
     Mobs
         https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
-        Naturalist
-        Enderman Overhaul
-        Creeper Overhaul
-        Faunify
-        Hybrid Aquatic
+        https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge
+        https://www.curseforge.com/minecraft/mc-mods/naturalist
+        https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul
+        https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul
+        https://www.curseforge.com/minecraft/mc-mods/faunify
+        https://www.curseforge.com/minecraft/mc-mods/hybrid-aquatic
+        https://www.curseforge.com/minecraft/mc-mods/hybrid-birds
+        https://github.com/RexkUr/AdventureZ
         Hamsters
         Mythic Mounts
         https://legacy.curseforge.com/minecraft/mc-mods/more-critters
